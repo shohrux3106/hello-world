@@ -1,0 +1,17 @@
+body {
+    background: #aaafff;
+}
+h1 {
+    color: blue;
+    margin-left: 20px;
+}
+
+p {
+    color: magenta;
+    margin-left: 10px;
+}
+img {
+    border-radius: 50%;
+    width: 80%;
+    height: 60%;
+}
